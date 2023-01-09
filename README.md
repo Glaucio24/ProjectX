@@ -1,2 +1,2 @@
-# ProjectX
-Deep dive about git
+# X Project
+Deep dive about git. 
